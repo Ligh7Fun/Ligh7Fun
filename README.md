@@ -26,8 +26,8 @@
         <a href="https://instagram.com/keeep3r" target="blank" rel="noreferrer">
             <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/keeep3r" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
-        <a href="https://www.youtube.com/c/Ligh7Fun" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/Ligh7Fun" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <a href="https://www.youtube.com/@ligh7fun" target="blank" rel="noreferrer">
+            <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/@ligh7fun" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://www.hackerrank.com/m5221710" target="blank" rel="noreferrer">
             <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/m5221710" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
