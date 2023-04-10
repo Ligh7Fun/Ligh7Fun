@@ -156,9 +156,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ligh7Fun&theme=gruvbox" alt="Ligh7Fun" />
 </p>
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-
-
 <p align="center" style='margin: 8px 4px;'>
     <img src="img/github-contribution-grid-snake.svg" alt="Ligh7Fun pathrabe stats snake" />
 </p>
