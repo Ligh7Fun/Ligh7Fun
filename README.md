@@ -1,4 +1,4 @@
-<body style='bgcolor="#000";'>
+<body style="background-color: #000000;">
     <p align='center' style='margin: 16px 4px 8px;'>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Hi+there,+I'm+Tsybin+Denis,+welcome+to+my+GitHub+Profile.;I'm+a+passionate+Python+developer." alt="Hi there, I'm Tsybin Denis, welcome to my GitHub Profile. I am a passionate Python developer." />
     </p>
@@ -40,6 +40,7 @@
     <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
         Languages and Tools:
     </h3>
+    <p align="center" style='margin: 16px 4px 32px;'>
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
@@ -73,6 +74,7 @@
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
+        <br>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
@@ -106,6 +108,7 @@
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
+        <br>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
@@ -144,19 +147,15 @@
     <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
         Stats
     </h3>
-
     <p align="center" style='margin: 8px 4px;'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ligh7Fun&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="Ligh7Fun" />
     </p>
-
     <p align="center" style='margin: 8px 4px;'>
         <img src="https://github-readme-stats.vercel.app/api?username=Ligh7Fun&show_icons=true&locale=en&theme=gruvbox" alt="Ligh7Fun" />
     </p>
-
     <p align="center" style='margin: 8px 4px;'>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ligh7Fun&theme=gruvbox" alt="Ligh7Fun" />
     </p>
-
     <p align="center" style='margin: 8px 4px;'>
         <img src="img/github-contribution-grid-snake.svg" alt="Ligh7Fun pathrabe stats snake" />
     </p>
