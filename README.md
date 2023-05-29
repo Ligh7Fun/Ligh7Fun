@@ -160,5 +160,3 @@
         <img src="img/github-contribution-grid-snake.svg" alt="Ligh7Fun pathrabe stats snake" />
     </p>
 </body>
-
-[//]: # (привет, Мир!)
