@@ -35,6 +35,9 @@
         <a href="https://www.leetcode.com/Ligh7Fun" target="blank" rel="noreferrer">
             <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://www.leetcode.com/Ligh7Fun" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
+        <a href="https://vk.com/keep3r_str" target="blank" rel="noreferrer">
+            <img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="https://vk.com/keep3r_str" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        </a>
     </p>
     <!--Language-->
     <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
