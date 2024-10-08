@@ -1,6 +1,6 @@
 <body style="background-color: #000000;">
     <p align='center' style='margin: 16px 4px 8px;'>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Hi+there,+I'm+Tsybin+Denis,+welcome+to+my+GitHub+Profile.;I'm+a+passionate+Python+developer." alt="Hi there, I'm Tsybin Denis, welcome to my GitHub Profile. I am a passionate Python developer." />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Hi+there,+I'm+Tsybin+Denis,+welcome+to+my+GitHub+Profile.;I'm+a+passionate+Python+/Frontend+developer." alt="Hi there, I'm Tsybin Denis, welcome to my GitHub Profile. I am a passionate Python developer." />
     </p>
     <br>
     <p align='center' style='margin: 16px 4px 8px;'>
